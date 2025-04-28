@@ -1,0 +1,19 @@
+
+
+body{
+    display: grid;
+    grid-template-rows: 100px auto 50px;
+    min-height: 100vh;
+}
+
+header{
+    background-color: red;
+}
+
+main{
+    background-color: blue;
+}
+
+fotter{
+    background-color: green;
+}
