@@ -16,11 +16,11 @@ header{
 }
 
 main{
-    background-color: blue;
+    background-color: rgb(106, 106, 212);
 }
 
 footer{
-    background-color: green;
+    background-color: rgb(141, 186, 187);
 }
 
 .overskrift-wrapper{
