@@ -16,7 +16,7 @@ header{
 }
 
 main{
-    background-color: rgb(106, 106, 212);
+    background-color: rgb(194, 210, 223);
 }
 
 footer{
@@ -35,4 +35,9 @@ footer{
     font-weight: weight 700;
     font-style: normal;
     font-size: 40px;
+}
+
+.text-wrapper{
+    width: 800px;
+    background-color: rgb(197, 198, 199);
 }
