@@ -23,3 +23,8 @@ main{
 fotter{
     background-color: green;
 }
+
+.overskrift-wrapper{
+    display: flex;
+    align-items: center;
+}
