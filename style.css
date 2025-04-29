@@ -44,4 +44,8 @@ footer{
 .text-wrapper{
     width: 800px;
     background-color: rgb(197, 198, 199);
+
+    font-family: "Crafty Girls", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
