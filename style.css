@@ -30,4 +30,8 @@ footer{
     width: 100%;
     align-items: center;
     justify-content: center;
+
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
 }
