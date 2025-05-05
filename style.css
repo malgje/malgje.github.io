@@ -42,14 +42,14 @@ footer{
 }
 
 .text-wrapper{
-    padding: 400px;
-    line-height: 300px;
+    padding: 40px;
+    line-height: 30px;
 
-    width: 800px;
+    width: 80px;
     background-color: rgb(197, 198, 199);
 
     font-family: "Crafty Girls", cursive;
     font-weight: weight 400;
     font-style: normal;
-    font-size: 300px;
+    font-size: 30px;
 }
